@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079501298978",
+    "project_id": "mealdeal-7c072",
+    "storage_bucket": "mealdeal-7c072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079501298978:android:0b59134b4e2e15cd3b197b",
+        "android_client_info": {
+          "package_name": "com.example.mealdeal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAVQ1AWfyht4SD4fuRMbJ2O6ELiHpnWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
